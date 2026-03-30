@@ -1,0 +1,4 @@
+# Optional extension if you want compatibility with parts of the tutorial repos.
+
+-r requirements.txt
+torch

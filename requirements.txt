@@ -1,0 +1,13 @@
+# Core environment for the self-contained course notebook.
+# Target: intuitive demos for SVD, MPS, truncation, compression, and plotting.
+
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.0
+
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+ipywidgets>=8.0
+pillow>=10.0
+nbformat>=5.9
